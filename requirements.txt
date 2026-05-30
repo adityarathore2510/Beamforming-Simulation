@@ -1,0 +1,5 @@
+# 5G Beamforming Simulator — Dependencies
+# Tkinter is included with standard Python; no separate install needed.
+
+numpy>=1.24.0
+matplotlib>=3.7.0
